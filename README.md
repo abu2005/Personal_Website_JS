@@ -1,3 +1,4 @@
-# Personal_Website_add_image
-on images page used image slider and color mode.
+# Personal_Website_images_projects
+On images page used imagse slider and color mode.
+Also added projects page with screen shot of all projects I did so far.
 Personal Website added new page Images with using some JS 
